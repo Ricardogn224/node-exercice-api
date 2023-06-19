@@ -1,0 +1,14 @@
+[
+    { "id": 1,
+    "name": "John Doe",
+    "accounts": [1, 2]
+    },
+    { "id": 2,
+    "name": "Jane Doe",
+    "accounts": [3]
+    },
+    { "id": 3,
+    "name": "Jim Doe",
+    "accounts": [4, 5]
+    }
+]
