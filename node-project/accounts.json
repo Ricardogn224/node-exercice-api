@@ -1,12 +1,1 @@
-[
-  {
-    "id": 1,
-    "userId": 1,
-    "balance": 300
-  },
-  {
-    "id": 2,
-    "userId": 1,
-    "balance": 200
-  }
-]
+[]
